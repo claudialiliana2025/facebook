@@ -1,11 +1,11 @@
 body {
-    background-color: #f2f4f7
+    background-color: #F2F4F7
     ;
 }
 
 .box-one {
 
-    background-color: black;
+    background-color: #F2F4F7;
     margin-bottom: 0px;
     width: 0px;
     padding-right: 32px;
@@ -33,19 +33,53 @@ body {
     background-color: white;
     margin-bottom: 0px;
     width: 0px;
-    padding-right: 32px;
     width: 396px;
-    height: 314.583px;
+    height: 315px;
     
 }
 
+
 .Correo{
 
-    width: 100px;
-    height: 21.991px;
-    padding-left: 16px;
-    padding-left: 16px;
+    width: 362px;
+    height: 50px;
+    padding : 16px 14px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-family: Helvetica, Arial, sans-serif;
 
 
+}
 
+.clave{
+
+    width: 362px;
+    height: 50px;
+    padding : 16px 14px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-family: Helvetica, Arial, sans-serif;
+
+
+}
+
+.Boton{
+
+    width: 395px;
+    height: 47px;
+    padding: 16px;
+    background-color: #0866ff;
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+.Principal{
+
+    display: flex;
 }
