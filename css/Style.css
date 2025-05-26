@@ -1,153 +1,184 @@
 body {
-    background-color: #F2F4F7
-    ;
+  background-color: #f2f4f7;
 }
 
-.main-box{
-
-    margin: 142.333px;
-    padding: 20px;
-    width: 100%;
-    height: 496px;
-
-
+.main-box {
+  margin: 142.333px;
+  padding: 20px;
+  width: 100%;
+  height: 496px;
 }
 
 .box-one {
-
-    background-color: #F2F4F7;
-    margin-bottom: 0px;
-    width: 548px;
-    padding-right: 32px;
-    width: 548px;
-    height: 298.073px;
-    line-height: 1.34;
-    color: #1c1e21;
-
+  background-color: #f2f4f7;
+  margin-bottom: 0px;
+  width: 548px;
+  padding-right: 32px;
+  width: 548px;
+  height: 298.073px;
+  line-height: 1.34;
+  color: #1c1e21;
 }
 
-.Logo{
-
-    margin: -28px;
-    width: 320.938px;
-    height: 106px;
-    padding-top: 112px;
+.Logo {
+  margin: -28px;
+  width: 320.938px;
+  height: 106px;
+  padding-top: 112px;
 }
 
-.Texto{
-    padding-bottom: 20px;
-    color: rgb(28, 30, 33);
-    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
-    font-size: 28px;
-    font-weight: normal;
-    width: 499.988;
-    height: 96.007;
+.Texto {
+  padding-bottom: 20px;
+  color: rgb(28, 30, 33);
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  width: 499.988;
+  height: 96.007;
 }
 
-.box-two{
-
-    background-color: white;
-    margin-bottom: 0px;
-    width: 400px;
-    height: 330px;
-    padding: 18px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-    box-sizing: border-box;
- 
-    
+.box-two {
+  background-color: white;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 340px;
+  padding: 18px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
 }
 
-
-.Correo{
-
-    width: 361px;
-    height: 54px;
-    padding : 16px 14px;
-    margin-bottom: 10px;
-    font-size: 17px;
-    font-family: Helvetica, Arial, sans-serif;
-    box-sizing: border-box;
-    border-radius: 6px;
-    border :1px solid; color: darkgray;
-    
-    
+.Correo {
+  width: 361px;
+  height: 54px;
+  padding: 16px 14px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  font-family: Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  border-radius: 6px;
+  border: 1px solid;
+  color: darkgray;
 }
 
-.clave{
-
-    width: 361px;
-    height: 54px;
-    padding : 16px 14px;
-    margin-bottom: 10px;
-    font-size: 17px;
-    font-family: Helvetica, Arial, sans-serif;
-    box-sizing: border-box;
-    border-radius: 6px;
-    border :1px solid; color: darkgray;
-    
-    
-
+.clave {
+  width: 361px;
+  height: 54px;
+  padding: 16px 14px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  font-family: Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  border-radius: 6px;
+  border: 1px solid;
+  color: darkgray;
 }
 
-.Boton{
-
-    width: 364px;
-    height: 23;
-    padding: 16px;
-    background-color: #0866ff;
-    color: white;
-    font-family: "Times New Roman";
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    box-sizing: border-box;
-    border-radius: 6px;
-    border: none;
-    
-    
-
+.Boton {
+  width: 364px;
+  height: 23;
+  padding: 16px;
+  background-color: #0866ff;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  border-radius: 6px;
+  border: none;
+  font-weight: 600;
 }
 
-.Principal{
-
-    display: flex;
+.Principal {
+  display: flex;
 }
 
-.forget{
-
-color: #0866ff;
-font-size: 14px;
-font-weight: 500;
-font-family: Helvetica, Arial, sans-se;
-text-align: center;
-display: flex;
-justify-content: center;
-margin-top: 10px;
-
-
-}
-    
- .linea {
-
-border: none;
-border-bottom: 1px darkgray solid;
-margin: 20px 16px;
-width: 345px;
-height: 0.74px;
-
- }   
-
-.boton2{
-
-width: 180px;
-height: 46px;
-background-color: rgb(66, 183, 42);
-border-radius: 6px;
-font-family: Helvetica, Arial, sans;
-font-size: 17px;
-color: white;
-border: none;
-margin: 0px 100px;
-
+.forget {
+  color: #0866ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-se;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
 }
 
+.linea {
+  border: none;
+  border-bottom: 1px darkgray solid;
+  margin: 20px 16px;
+  width: 345px;
+  height: 0.74px;
+}
+
+.boton2 {
+  width: 180px;
+  height: 46px;
+  background-color: rgb(66, 183, 42);
+  border-radius: 6px;
+  font-family: Helvetica, Arial, sans;
+  font-size: 17px;
+  color: white;
+  border: none;
+  margin: 0px 100px;
+  font-weight: 600;
+}
+
+.box-three {
+  color: rgb(28, 30, 33);
+  font-weight: 400;
+  text-decoration: none;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  text-decoration: rgb(28, 30, 33);
+}
+
+.anuncio {
+  font-weight: bold;
+  color: rgb(28, 30, 33);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  text-decoration: solid;
+}
+
+.pagina {
+  font-size: 14px;
+}
+
+.cajafinal {
+  width: 979.989;
+  height: 136.539;
+  margin-top: 112px;
+  font-family: Helvetica, Arial, sans;
+  font-size: 12px;
+  margin-left: -22px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  text-decoration: none;
+  unicode-bidi: isolate;
+}
+
+.x {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #737373;
+}
+
+.cajafina2 {
+  padding: 8px;
+  font-family: Helvetica, Arial, sans;
+  font-size: 12px;
+  margin-left: -30px;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.letraf {
+  padding-top: 30px;
+  display: flex;
+  justify-content: left;
+}
